@@ -6,5 +6,5 @@ order_body = {
     "phone": "+78005553535",
     "rentTime": 5,
     "deliveryDate": "2023-08-30",
-    "comment": "Привет, ревьюер!"
+    "comment": "Поднимите на 10 этаж"
 }
